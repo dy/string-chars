@@ -1,0 +1,25 @@
+{
+  "name": "string-chars",
+  "version": "1.0.0",
+  "description": "Get list of characters in a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dy/string-chars.git"
+  },
+  "keywords": [
+    "string",
+    "chars",
+    "characters",
+    "atlas"
+  ],
+  "author": "Dmitry Yv <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dy/string-chars/issues"
+  },
+  "homepage": "https://github.com/dy/string-chars#readme"
+}
